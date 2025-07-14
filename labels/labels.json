@@ -1,0 +1,83 @@
+[
+    {
+        "color": "d73a4a",
+        "default": true,
+        "description": "Something isn't working",
+        "id": 2429023,
+        "name": "bug",
+        "node_id": "MDU6TGFiZWwyNDI5MDIz",
+        "url": "https://github.ncsu.edu/api/v3/repos/kjoshi4/Program-2-Ruby-on-Rails/labels/bug"
+    },
+    {
+        "color": "0075ca",
+        "default": true,
+        "description": "Improvements or additions to documentation",
+        "id": 2429024,
+        "name": "documentation",
+        "node_id": "MDU6TGFiZWwyNDI5MDI0",
+        "url": "https://github.ncsu.edu/api/v3/repos/kjoshi4/Program-2-Ruby-on-Rails/labels/documentation"
+    },
+    {
+        "color": "cfd3d7",
+        "default": true,
+        "description": "This issue or pull request already exists",
+        "id": 2429025,
+        "name": "duplicate",
+        "node_id": "MDU6TGFiZWwyNDI5MDI1",
+        "url": "https://github.ncsu.edu/api/v3/repos/kjoshi4/Program-2-Ruby-on-Rails/labels/duplicate"
+    },
+    {
+        "color": "a2eeef",
+        "default": true,
+        "description": "New feature or request",
+        "id": 2429026,
+        "name": "enhancement",
+        "node_id": "MDU6TGFiZWwyNDI5MDI2",
+        "url": "https://github.ncsu.edu/api/v3/repos/kjoshi4/Program-2-Ruby-on-Rails/labels/enhancement"
+    },
+    {
+        "color": "7057ff",
+        "default": true,
+        "description": "Good for newcomers",
+        "id": 2429028,
+        "name": "good first issue",
+        "node_id": "MDU6TGFiZWwyNDI5MDI4",
+        "url": "https://github.ncsu.edu/api/v3/repos/kjoshi4/Program-2-Ruby-on-Rails/labels/good%20first%20issue"
+    },
+    {
+        "color": "008672",
+        "default": true,
+        "description": "Extra attention is needed",
+        "id": 2429027,
+        "name": "help wanted",
+        "node_id": "MDU6TGFiZWwyNDI5MDI3",
+        "url": "https://github.ncsu.edu/api/v3/repos/kjoshi4/Program-2-Ruby-on-Rails/labels/help%20wanted"
+    },
+    {
+        "color": "e4e669",
+        "default": true,
+        "description": "This doesn't seem right",
+        "id": 2429029,
+        "name": "invalid",
+        "node_id": "MDU6TGFiZWwyNDI5MDI5",
+        "url": "https://github.ncsu.edu/api/v3/repos/kjoshi4/Program-2-Ruby-on-Rails/labels/invalid"
+    },
+    {
+        "color": "d876e3",
+        "default": true,
+        "description": "Further information is requested",
+        "id": 2429030,
+        "name": "question",
+        "node_id": "MDU6TGFiZWwyNDI5MDMw",
+        "url": "https://github.ncsu.edu/api/v3/repos/kjoshi4/Program-2-Ruby-on-Rails/labels/question"
+    },
+    {
+        "color": "ffffff",
+        "default": true,
+        "description": "This will not be worked on",
+        "id": 2429031,
+        "name": "wontfix",
+        "node_id": "MDU6TGFiZWwyNDI5MDMx",
+        "url": "https://github.ncsu.edu/api/v3/repos/kjoshi4/Program-2-Ruby-on-Rails/labels/wontfix"
+    }
+]
